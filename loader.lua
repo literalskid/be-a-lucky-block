@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/literalskid/be-a-lucky-block/blob/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/literalskid/be-a-lucky-block/refs/heads/main/main.lua"))()
